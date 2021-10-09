@@ -1,0 +1,10 @@
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\bin\Release\AudioSteganographyClass1.exe.config
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\bin\Release\AudioSteganographyClass1.exe
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\bin\Release\AudioSteganographyClass1.pdb
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.csproj.AssemblyReference.cache
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.Form1.resources
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.Properties.Resources.resources
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.csproj.GenerateResource.cache
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.csproj.CoreCompileInputs.cache
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.exe
+C:\Users\MooN\OneDrive\Desktop\AudioSteganographyClass1\AudioSteganographyClass1\obj\Release\AudioSteganographyClass1.pdb
